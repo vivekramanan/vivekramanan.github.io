@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Gradients | Ritwik Gupta"
+title: "Gradients - Ritwik Gupta"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
