@@ -3,7 +3,7 @@ title: Understanding HL7 Structure
 date: '2017-03-29 11:00:00'
 tags:
   - healthcare
-permalink: /posts/2017/03/understanding-hl7-structure/
+permalink: /healthcare/2017/03/understanding-hl7-structure/
 ---
 
 # What is HL7
