@@ -9,5 +9,8 @@ main:
   - title: "Students"
     url: /students/
 
+  - title: "Press"
+    url: /press/
+
   - title: "CV"
     url: /cv/
