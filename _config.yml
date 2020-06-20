@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 locale: en-US
 title: Gradients
 title_separator: '-'
@@ -65,6 +66,7 @@ analytics:
   google:
     tracking_id: UA-60715523-1
 author:
+<<<<<<< HEAD
   name: Ritwik Gupta
   avatar: profile.jpg
   bio: >-
@@ -99,6 +101,8 @@ author:
   xing: null
   youtube: null
   wikipedia: null
+
+# Reading Files
 include:
   - .htaccess
   - _pages
@@ -110,22 +114,23 @@ exclude:
   - .bundle
   - .jekyll-assets-cache
   - .sass-cache
-  - assets/js/plugins
-  - assets/js/_main.js
-  - assets/js/vendor
-  - Capfile
   - CHANGELOG
-  - config
+  - Capfile
   - Gemfile
   - Gruntfile.js
-  - gulpfile.js
   - LICENSE
+  - README
+  - Rakefile
+  - assets/js/_main.js
+  - assets/js/plugins
+  - assets/js/vendor
+  - config
+  - gulpfile.js
   - log
   - node_modules
   - package.json
-  - Rakefile
-  - README
   - tmp
+  - vendor
 keep_files:
   - .git
   - .svn
