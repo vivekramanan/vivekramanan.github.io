@@ -20,6 +20,10 @@ Articles
 * [U.S. Military, Looking to Automate Post-Disaster Damage Recognition, Seeks a Winning Formula](https://spectrum.ieee.org/tech-talk/computing/software/defense-department-launches-disastrous-computer-vision-contest). IEEE Spectrum. September 26, 2019.
 * [Defense Innovation Unit launches new satellite imagery prize challenge](https://spacenews.com/defense-innovation-unit-launches-new-satellite-imagery-prize-challenge/). Space News. September 26, 2019.
 
+Reports
+=======
+* [Into the Storm: Using Artificial Intelligence to Improve California's Disaster Reslience](https://ourpublicservice.org/publications/into-the-storm-using-artificial-intelligence-to-improve-californias-disaster-resilience/). Partnership for Public Service + Microsoft. July 9, 2020.
+
 Videos
 =======
 * [Building Damage Assessment from Remote Sensed Imagery](https://www.youtube.com/watch?v=Gv5iAgzxtPg). May 1, 2020.
