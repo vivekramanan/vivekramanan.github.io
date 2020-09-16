@@ -9,6 +9,7 @@ author_profile: true
 
 Articles
 ========
+* [California National Guard Using Satellites to Fight Wildfires](https://www.airforcemag.com/california-national-guard-using-satellites-to-fight-wildfires/). Air Force Magazine. September 8, 2020.
 * [Fighting Fires Together: xView 2 Prize Challenge Helps Automate Damage Assessments](https://appliedsciences.nasa.gov/our-impact/news/fighting-fires-together-xview-2-prize-challenge-helps-automate-damage-assessments). NASA. June 25, 2020.
 * [JUST IN: Defense Innovation Unit to Sponsor Computer Vision Prize Challenge](https://www.nationaldefensemagazine.org/articles/2020/3/12/defense-innovation-unit-to-sponsor-computer-vision-prize-challenge). National Defense Magazine. March 12, 2020.
 * [AI for natural disaster damage assessment challenge reaches final stages in California](https://sociable.co/technology/ai-natural-disaster-damage-assessment-california/). The Sociable. January 8, 2020.
