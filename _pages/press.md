@@ -11,6 +11,7 @@ Articles
 =======
 * [Thousands of American Troops to Take Part in Covid-19 Early-Detection Study](https://www.wsj.com/articles/thousands-of-american-troops-to-take-part-in-covid-19-early-detection-study-11600772402). Wall Street Journal. September 22, 2020.
 * [AI Aids DOD in Early Detection of COVID-19](https://www.defense.gov/Explore/News/Article/Article/2356086/ai-aiding-dod-in-early-detection-of-covid-19-say-technologists/). Department of Defense News. September 22, 2020.
+* [The US Military’s Latest Wearables Can Detect Illness Two Days Before You Get Sick](https://www.defenseone.com/technology/2020/09/militarys-latest-wearables-can-detect-illness-two-days-you-get-sick/168664/). Defense One. September 22, 2020.
 * [California National Guard Using Satellites to Fight Wildfires](https://www.airforcemag.com/california-national-guard-using-satellites-to-fight-wildfires/). Air Force Magazine. September 8, 2020.
 * [Fighting Fires Together: xView 2 Prize Challenge Helps Automate Damage Assessments](https://appliedsciences.nasa.gov/our-impact/news/fighting-fires-together-xview-2-prize-challenge-helps-automate-damage-assessments). NASA. June 25, 2020.
 * [JUST IN: Defense Innovation Unit to Sponsor Computer Vision Prize Challenge](https://www.nationaldefensemagazine.org/articles/2020/3/12/defense-innovation-unit-to-sponsor-computer-vision-prize-challenge). National Defense Magazine. March 12, 2020.
