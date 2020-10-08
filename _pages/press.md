@@ -23,6 +23,7 @@ Articles
 * [DIU challenge takes on algorithms to assess building damage](https://www.fedscoop.com/xview2-challenge-building-damage-disaster-recovery/). FedScoop. September 30, 2019.
 * [U.S. Military, Looking to Automate Post-Disaster Damage Recognition, Seeks a Winning Formula](https://spectrum.ieee.org/tech-talk/computing/software/defense-department-launches-disastrous-computer-vision-contest). IEEE Spectrum. September 26, 2019.
 * [Defense Innovation Unit launches new satellite imagery prize challenge](https://spacenews.com/defense-innovation-unit-launches-new-satellite-imagery-prize-challenge/). Space News. September 26, 2019.
+* [DOD Sponsors Artificial Intelligence Competition](https://www.afcea.org/content/dod-sponsors-artificial-intelligence-competition). SIGNAL Magazine. August 15, 2019.
 
 Reports
 =======
