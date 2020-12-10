@@ -9,6 +9,7 @@ author_profile: true
 
 Articles
 =======
+* [Hanscom Looks to Modernize NCR Defense System](https://www.edwards.af.mil/News/Article/2441081/hanscom-looks-to-modernize-ncr-defense-system/). Edwards Air Force Base. December 9, 2020.
 * [Detecting Change With Artificial Intelligence](https://www.afcea.org/content/detecting-change-artificial-intelligence). SIGNAL Magazine. December 1, 2020.
 * [Thousands of American Troops to Take Part in Covid-19 Early-Detection Study](https://www.wsj.com/articles/thousands-of-american-troops-to-take-part-in-covid-19-early-detection-study-11600772402). Wall Street Journal. September 22, 2020.
 * [AI Aids DOD in Early Detection of COVID-19](https://www.defense.gov/Explore/News/Article/Article/2356086/ai-aiding-dod-in-early-detection-of-covid-19-say-technologists/). Department of Defense News. September 22, 2020.
