@@ -9,6 +9,7 @@ author_profile: true
 
 Articles
 =======
+* [Naval Academy Participates in Rapid Analysis of Threat Exposure (Rate) Study](https://www.usna.edu/NewsCenter/2020/12/Naval_Academy_Participates_in_Rapid_Analysis_of_Threat_Exposure_Rate_Study.php). US Naval Academy. December 14, 2020.
 * [Hanscom Looks to Modernize NCR Defense System](https://www.edwards.af.mil/News/Article/2441081/hanscom-looks-to-modernize-ncr-defense-system/). Edwards Air Force Base. December 9, 2020.
 * [Detecting Change With Artificial Intelligence](https://www.afcea.org/content/detecting-change-artificial-intelligence). SIGNAL Magazine. December 1, 2020.
 * [Thousands of American Troops to Take Part in Covid-19 Early-Detection Study](https://www.wsj.com/articles/thousands-of-american-troops-to-take-part-in-covid-19-early-detection-study-11600772402). Wall Street Journal. September 22, 2020.
