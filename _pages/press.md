@@ -9,6 +9,8 @@ author_profile: true
 
 Articles
 =======
+* [DOD Announces AI Competition to Detect, Defeat Illegal Fishing](https://www.defense.gov/Explore/News/Article/Article/2703739/dod-announces-ai-competition-to-detect-defeat-illegal-fishing/). Department of Defense. July 22, 2021.
+* [Defense Innovation Unit to Sponsor Computer Vision Prize Challenge](https://www.nationaldefensemagazine.org/articles/2020/3/12/defense-innovation-unit-to-sponsor-computer-vision-prize-challenge). National Defense Magazine. July 22, 2021.
 * [Naval Academy Participates in Rapid Analysis of Threat Exposure (Rate) Study](https://www.usna.edu/NewsCenter/2020/12/Naval_Academy_Participates_in_Rapid_Analysis_of_Threat_Exposure_Rate_Study.php). US Naval Academy. December 14, 2020.
 * [Hanscom Looks to Modernize NCR Defense System](https://www.edwards.af.mil/News/Article/2441081/hanscom-looks-to-modernize-ncr-defense-system/). Edwards Air Force Base. December 9, 2020.
 * [Detecting Change With Artificial Intelligence](https://www.afcea.org/content/detecting-change-artificial-intelligence). SIGNAL Magazine. December 1, 2020.
