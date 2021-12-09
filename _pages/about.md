@@ -12,4 +12,6 @@ Hello! I'm Ritwik and this is where I post my thoughts and things about my life.
 
 I am also the Founder and President of [Neural Tangent](https://neuraltangent.com/), a company aimed at creating ML solutions to humanitarian assistance and disaster response problems. I also provide consulting in the space of machine learning, artificial intelligence, edge computing, and remote sensing.
 
-Feel free to poke around the site and hopefully you find something thought provoking. If you're going to be stopping by Berkeley at some point, please reach out if you want a tour or just want to chat!
+I co-organize the Berkeley AI Reseach Climate Initiative and [Berkeley AI + Climate Change Reading Group](https://berkeley-ai-climate-change.github.io/) with [Colorado Reed](http://people.eecs.berkeley.edu/~cjrd/) and [Medhini Narasimhan](https://medhini.github.io/). If you are intersted in participating, please join the Slack and send me a message!
+
+Feel free to poke around the site and hopefully you find something thought provoking. If you are interested in working with me, please send me an email at firstlast@berkeley.edu.
