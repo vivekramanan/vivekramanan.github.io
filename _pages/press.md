@@ -12,6 +12,7 @@ Articles
 * [Can We Spot Illegal Fishing Fleets from Space?](https://www.defenseone.com/technology/2021/08/can-we-spot-illegal-fishing-fleets-space/184300/). Defense One. August 4, 2021.
 * [DOD Announces AI Competition to Detect, Defeat Illegal Fishing](https://www.defense.gov/Explore/News/Article/Article/2703739/dod-announces-ai-competition-to-detect-defeat-illegal-fishing/). Department of Defense. July 22, 2021.
 * [Defense Innovation Unit to Sponsor Computer Vision Prize Challenge](https://www.nationaldefensemagazine.org/articles/2020/3/12/defense-innovation-unit-to-sponsor-computer-vision-prize-challenge). National Defense Magazine. July 22, 2021.
+* [The Pentagon Wants Programmers' Help to Catch IUU Fishing Activity](https://www.maritime-executive.com/article/the-pentagon-wants-programmers-help-to-spot-iuu-fishing). The Maritime Executive. July 22, 2021
 * [Naval Academy Participates in Rapid Analysis of Threat Exposure (Rate) Study](https://www.usna.edu/NewsCenter/2020/12/Naval_Academy_Participates_in_Rapid_Analysis_of_Threat_Exposure_Rate_Study.php). US Naval Academy. December 14, 2020.
 * [Detecting Change With Artificial Intelligence](https://www.afcea.org/content/detecting-change-artificial-intelligence). SIGNAL Magazine. December 1, 2020.
 * [Thousands of American Troops to Take Part in Covid-19 Early-Detection Study](https://www.wsj.com/articles/thousands-of-american-troops-to-take-part-in-covid-19-early-detection-study-11600772402). Wall Street Journal. September 22, 2020.
