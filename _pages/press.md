@@ -9,6 +9,7 @@ author_profile: true
 
 Articles
 =======
+* [U.S. Fishing for Defense Tech to Protect International Waters](https://www.nationaldefensemagazine.org/articles/2022/1/20/us-fishing-for-defense-tech-to-protect-international-waters). National Defense Magazine. January 20, 2022.
 * [Can We Spot Illegal Fishing Fleets from Space?](https://www.defenseone.com/technology/2021/08/can-we-spot-illegal-fishing-fleets-space/184300/). Defense One. August 4, 2021.
 * [DOD Announces AI Competition to Detect, Defeat Illegal Fishing](https://www.defense.gov/Explore/News/Article/Article/2703739/dod-announces-ai-competition-to-detect-defeat-illegal-fishing/). Department of Defense. July 22, 2021.
 * [Defense Innovation Unit to Sponsor Computer Vision Prize Challenge](https://www.nationaldefensemagazine.org/articles/2020/3/12/defense-innovation-unit-to-sponsor-computer-vision-prize-challenge). National Defense Magazine. July 22, 2021.
