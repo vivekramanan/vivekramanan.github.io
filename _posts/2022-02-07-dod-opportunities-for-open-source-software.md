@@ -53,7 +53,7 @@ There is debate about our responsibility as software engineers when it comes to 
 
 Pragmatically, however, the DoD is already using your software. In its current state, third-parties with no consideration for the proper use of your software are packaging it up and selling it with no say from the project maintainers. By directly accepting DoD funding and being a first-party provider of technology, you can ensure that the DoD is using your software in a fair and responsible manner.
 
-With the DoD adopting [principles](https://www.defense.gov/News/Releases/Release/Article/2091996/dod-adopts-ethical-principles-for-artificial-intelligence/) and [guidelines](https://www.diu.mil/responsible-ai-guidelines) for the ethical use of complicated AI software toolchains, there is support internally to ensure that software is used responsibly. Participating in this process is only possible if your project is at the table.
+With the DoD adopting [principles](https://www.defense.gov/News/Releases/Release/Article/2091996/dod-adopts-ethical-principles-for-artificial-intelligence/) and [guidelines](https://www.diu.mil/responsible-ai-guidelines) for the ethical use of complicated AI software toolchains, there is support internally to ensure that software is used responsibly. By participating in this process first-hand, you can help the DoD set a framework for similar technology uses in the future.
 
 ## Closing
 
