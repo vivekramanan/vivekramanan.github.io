@@ -7,5 +7,5 @@ date: 2021-09-23
 venue: 'Climate Change AI Workshop at NeurIPS 2021'
 paperurl: 'https://arxiv.org/abs/2109.08770'
 github: 'https://github.com/RupaKurinchiVendhan/WiSoSuper'
-citation: 'Kurinchi-Vendhan, Rupa, Björn Lütjens, Ritwik Gupta, Lucien Werner, and Dava Newman. "WiSoSuper: Benchmarking Super-Resolution Methods on Wind and Solar Data." arXiv preprint arXiv:2109.08770 (2021).'
+citation: 'Kurinchi-Vendhan, Rupa, Björn Lütjens, Ritwik Gupta, Lucien Werner, and Dava Newman. "WiSoSuper: Benchmarking Super-Resolution Methods on Wind and Solar Data." Tackling Climate Change with Machine Learning Workshop at NeurIPS (2021).'
 ---
