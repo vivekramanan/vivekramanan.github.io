@@ -10,7 +10,7 @@ redirect_from:
 
 Hello! I'm Ritwik and this is where I post my thoughts and things about my life. I'm currently a first year Ph.D. student at the University of California, Berkeley. My focus is on efficient machine learning for humanitarian assistance and disaster response and the policy surrounding the use of ML in developing areas.
 
-I am a member of the [Berkeley AI Research (BAIR) lab](https://bair.berkeley.edu/), co-advised by Drs. [Trevor Darrell](https://people.eecs.berkeley.edu/~trevor/) and [Shankar Sastry](https://www2.eecs.berkeley.edu/Faculty/Homepages/sastry.html). I am additionally advised by [Secretary Janet Napolitano](https://gspp.berkeley.edu/faculty-and-impact/faculty/janet-napolitano) via the [Center for Security in Politics](https://csp.berkeley.edu/) in the area of AI Policy.
+I am a member of the [Berkeley AI Research (BAIR) lab](https://bair.berkeley.edu/), co-advised by Drs. [Trevor Darrell](https://people.eecs.berkeley.edu/~trevor/) and [Shankar Sastry](https://www2.eecs.berkeley.edu/Faculty/Homepages/sastry.html). I am additionally a member of the [Center for Security in Politics](https://csp.berkeley.edu/) advised by [Secretary Janet Napolitano](https://gspp.berkeley.edu/faculty-and-impact/faculty/janet-napolitano) in the area of AI Policy.
 
 I am also the Founder and President of [Neural Tangent](https://neuraltangent.com/), a company aimed at creating ML solutions to humanitarian assistance and disaster response problems. I also provide consulting in the space of machine learning, artificial intelligence, edge computing, and remote sensing.
 
