@@ -58,3 +58,5 @@ With the DoD adopting [principles](https://www.defense.gov/News/Releases/Release
 ## Closing
 
 This memo is extremely young and actual implementation of this memo remains yet to be seen. However, the future of OSS within the DoD is bright, and maximizing this wave to benefit the community at large is in the interest of everyone who depends on OSS around the world.
+
+*Edit: There is discussion about this post on [Hacker News](https://news.ycombinator.com/item?id=30247420). I encourage people to engage; there are many things I have not thought about that could go a long way into creating a framework for DoD funding of OSS projects.*
