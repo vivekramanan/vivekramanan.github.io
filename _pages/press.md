@@ -9,7 +9,8 @@ author_profile: true
 
 Articles
 =======
-* [Satellite companies join the hunt for Russian war crimes](https://www.politico.com/news/2022/04/06/satellite-russian-war-crimes-00023386). POLITICO. April 6, 2022.
+* [Nach Menschenrechtsverstößen fahnden](https://www.deutschlandfunkkultur.de/satelliten-bilder-krieg-100.html). Deutschlandfunk Kultur. April 14, 2022.
+* [Satellite Companies Join the Hunt for Russian War Crimes](https://www.politico.com/news/2022/04/06/satellite-russian-war-crimes-00023386). POLITICO. April 6, 2022.
 * [U.S. Fishing for Defense Tech to Protect International Waters](https://www.nationaldefensemagazine.org/articles/2022/1/20/us-fishing-for-defense-tech-to-protect-international-waters). National Defense Magazine. January 20, 2022.
 * [Can We Spot Illegal Fishing Fleets from Space?](https://www.defenseone.com/technology/2021/08/can-we-spot-illegal-fishing-fleets-space/184300/). Defense One. August 4, 2021.
 * [DOD Announces AI Competition to Detect, Defeat Illegal Fishing](https://www.defense.gov/Explore/News/Article/Article/2703739/dod-announces-ai-competition-to-detect-defeat-illegal-fishing/). Department of Defense. July 22, 2021.
