@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I'm Ritwik and this is where I post my thoughts and things about my life. I'm currently a first year Ph.D. student at the University of California, Berkeley. My focus is on efficient machine learning for humanitarian assistance and disaster response and the policy surrounding the use of ML in developing areas.
+Hello! I'm Ritwik and this is where I post my thoughts and things about my life. I'm currently a second year Ph.D. student at the University of California, Berkeley. My focus is on efficient machine learning for humanitarian assistance and disaster response and the policy surrounding the use of ML in developing areas.
 
 I am a member of the [Berkeley AI Research (BAIR) lab](https://bair.berkeley.edu/), co-advised by Drs. [Trevor Darrell](https://people.eecs.berkeley.edu/~trevor/) and [Shankar Sastry](https://www2.eecs.berkeley.edu/Faculty/Homepages/sastry.html).
 
