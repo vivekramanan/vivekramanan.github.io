@@ -17,3 +17,9 @@ I am also the Founder and President of [Neural Tangent](https://neuraltangent.co
 I co-organize the [Berkeley AI Reseach Climate Initiative](https://ai-climate.berkeley.edu/) with [Colorado Reed](http://people.eecs.berkeley.edu/~cjrd/) and [Medhini Narasimhan](https://medhini.github.io/) which is focused on uniting researchers to work on more meaningful AI x Climate research, and transitioning that work into the field. If you are interested in participating, please join the Slack and send me a message!
 
 Feel free to poke around the site and hopefully you find something thought provoking. If you are interested in working with me, please send me an email at firstlast@berkeley.edu.
+
+---
+### News
+* **[Sept. 2022]** One paper accepted to NeurIPS 2022!
+* **[Jul. 2022]** I was awarded the National Science Foundation's Digital Transformation of Development Fellowship.
+* **[Jul. 2022]** The non-profit H2H8 awarded me a grant for my work on AI for humanitarian assistance and disaster response.

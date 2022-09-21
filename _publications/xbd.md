@@ -8,5 +8,5 @@ venue: 'arXiv preprint'
 projecturl: 'https://www.xview2.org'
 paperurl: 'https://arxiv.org/abs/1911.09296'
 github: 'https://github.com/DIUx-xView/xView2_baseline'
-citation: 'Gupta, Ritwik, Richard Hosfelt, Sandra Sajeev, Nirav Patel, Bryce Goodman, Jigar Doshi, Eric Heim, Howie Choset, and Matthew Gaston. "xBD: A Dataset for Assessing Building Damage from Satellite Imagery." arXiv preprint arXiv:1911.09296 (2019).'
+citation: 'Ritwik Gupta, Richard Hosfelt, Sandra Sajeev, Nirav Patel, Bryce Goodman, Jigar Doshi, Eric Heim, Howie Choset, and Matthew Gaston. "xBD: A Dataset for Assessing Building Damage from Satellite Imagery." arXiv preprint arXiv:1911.09296 (2019).'
 ---
