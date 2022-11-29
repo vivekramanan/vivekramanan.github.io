@@ -51,6 +51,8 @@ alexa_site_verification: null
 yandex_site_verification: null
 twitter:
   username: "@Ritwik_G"
+mastodon:
+  username: "https://sigmoid.social/@ritwik"
 facebook:
   username: null
   app_id: null
@@ -94,6 +96,7 @@ author:
   steam: null
   tumblr: null
   twitter: "Ritwik_G"
+  mastodon: "https://sigmoid.social/@ritwik"
   vine: null
   weibo: null
   xing: null
