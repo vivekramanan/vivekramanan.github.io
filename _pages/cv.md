@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+{% /files/VR CV 2022.pdf %}
 
 Education
 ======
