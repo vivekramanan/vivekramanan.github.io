@@ -10,6 +10,6 @@ citation: 'Ramanan,V.;Mechery,S.;Sarkar,I.N. (2022). &quot;Genbank as a source t
 ---
 This paper uses data mining, natural language processing, and phylogenetics techniques to explore the current status of Genbank microbiome data. As an important source of reference genomes, Genbank is a valuable resource to demonstrate our current understanding and data collection on the microbiome thus far. 
 
-[Download paper here](http://academicpages.github.io/files/VR Bioinformatics Paper.pdf)
+[Download paper here](http://vivekramanan.github.io/files/VR Bioinformatics Paper.pdf)
 
 Recommended citation: Ramanan,V.;Mechery,S.;Sarkar,I.N. (2022). "Genbank as a source to monitor and analyze Host-Microbiome Data." <i>Bioinformatics</i>. DOI: 10.1093/bioinformatics/btac487.
