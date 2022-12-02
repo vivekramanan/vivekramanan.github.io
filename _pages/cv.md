@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% /files/VR CV 2022.pdf %}
-http://vivekramanan.github.io/files/VR CV 2022.pdf
+http://vivekramanan.github.io/files/VR-CV-2022.pdf
 
 Education
 ======
