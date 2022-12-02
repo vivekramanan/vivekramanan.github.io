@@ -3,7 +3,7 @@ title: "Clustered 8-Oxo-Guanine Mutations and Oncogenic Gene Fusions in Microsat
 collection: publications
 permalink: /publication/2021
 excerpt: ''
-date: 2021
+date: 2022-05-18
 venue: 'JCO Precision Oncology'
 paperurl: 'http://vivekramanan.github.io/files/VR-ASCO-Paper.pdf'
 citation: 'Madison,R.;Hu,X.;Ramanan,V.;et al. (2022). &quot;Clustered 8-Oxo-Guanine Mutations and Oncogenic Gene Fusions in Microsatellite-Unstable Colorectal Cancer.&quot; <i>JCO Precision Ongoloy</i>. DOI: 10.1200/PO.21.00477.'
