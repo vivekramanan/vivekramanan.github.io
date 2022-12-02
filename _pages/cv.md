@@ -7,8 +7,8 @@ redirect_from:
   - /resume
 ---
 
-{% /files/VR CV 2022.pdf %}
-http://vivekramanan.github.io/files/VR-CV-2022.pdf
+<object data="http://vivekramanan.github.io/files/VR-CV-2022.pdf" width="1000" height="1000" type='application/pdf'></object>
+
 
 Education
 ======
