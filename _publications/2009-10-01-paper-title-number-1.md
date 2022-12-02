@@ -1,9 +1,9 @@
 ---
 title: "Genbank as a source to monitor and analyze Host-Microbiome Data"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/2022
 excerpt: 'Exploring data mining of Genbank microbiome data from a monitoring perspective'
-date: 2009-10-01
+date: 2022
 venue: 'Bioinformatics'
 paperurl: 'https://academic.oup.com/bioinformatics/article/38/17/4172/6633928?login=true'
 citation: 'Ramanan,V.;Mechery,S.;Sarkar,I.N. (2022). &quot;Genbank as a source to monitor and analyze Host-Microbiome Data.&quot; <i>Bioinformatics</i>. DOI: 10.1093/bioinformatics/btac487'
