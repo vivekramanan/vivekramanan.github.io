@@ -2,7 +2,7 @@
 title: "Genbank as a source to monitor and analyze Host-Microbiome Data"
 collection: publications
 permalink: /publication/2022
-excerpt: 'Exploring data mining of Genbank microbiome data from a monitoring perspective'
+excerpt: 'This paper uses data mining, natural language processing, and phylogenetics techniques to explore the current status of Genbank microbiome data. As an important source of reference genomes, Genbank is a valuable resource to demonstrate our current understanding and data collection on the microbiome thus far. '
 date: 2022-07-08
 venue: 'Bioinformatics'
 paperurl: 'https://academic.oup.com/bioinformatics/article/38/17/4172/6633928?login=true'
