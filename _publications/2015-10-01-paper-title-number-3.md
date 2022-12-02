@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 3"
+title: "Clustered 8-Oxo-Guanine Mutations and Oncogenic Gene Fusions in Microsatellite-Unstable Colorectal Cancer"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+permalink: /publication/2021
+excerpt: ''
+date: 2021
+venue: 'JCO Precision Oncology'
+paperurl: 'http://vivekramanan.github.io/files/VR ASCO.pdf'
+citation: 'Madison,R.;Hu,X.;Ramanan,V.;et al. (2022). &quot;Clustered 8-Oxo-Guanine Mutations and Oncogenic Gene Fusions in Microsatellite-Unstable Colorectal Cancer.&quot; <i>JCO Precision Ongoloy</i>. DOI: 10.1200/PO.21.00477.'
 ---
-This paper is about the number 3. The number 4 is left for future work.
+MSI-H colorectal cancer cases are often characterized by oncogenic fusions in driver genes. Junction sequences of these fusions (50 base pair combinations surrounding the breakpoint) revealed a particular type of mutation, known as 8-oxo-guanine mutations, that are linked to environmental causes and potentially to the microbial metabolite, butyrate, which can modulate oxidative damage. 
 
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
+[Download paper here](http://vivekramanan.github.io/files/VR ASCO.pdf)
 
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
+Recommended citation: Madison,R.;Hu,X.;Ramanan,V.;et al. (2022). "Clustered 8-Oxo-Guanine Mutations and Oncogenic Gene Fusions in Microsatellite-Unstable Colorectal Cancer." <i>JCO Precision Oncology</i>. DOI: 10.1200/PO.21.00477.
