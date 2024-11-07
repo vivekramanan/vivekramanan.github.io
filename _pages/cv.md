@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-<iframe src="https://vivekramanan.github.io/files/VR-CV-2022.pdf" type="application/pdf" width="100%" height="640dip"></iframe>
+<iframe src="https://vivekramanan.github.io/files/VR-CV-2024.pdf" type="application/pdf" width="100%" height="640dip"></iframe>
