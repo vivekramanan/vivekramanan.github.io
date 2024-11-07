@@ -10,13 +10,14 @@ redirect_from:
 
 Hi - I'm Vivek and I'm currently a fifth-year PhD candidate in Computational Biology at Brown University. I work in the [Center of Computational Molecular Biology](https://ccmb.brown.edu/) (CCMB) and the [Brown Center of Biomedical Informatics](https://bcbi.brown.edu/) (BCBI), with an expected graduation in Spring 2025.
 
-I'm advised by [Indra Neil Sarkar](https://vivo.brown.edu/display/isarkar) and, from a birds-eye view, work on the interesection between health, biological molecular data, and computer science techniques. I'm particularly interested in microbiomes and microbes, from health, agriculture, and so much more. Before my PhD, I worked as a Clinical Bioinformatics Analyst at [Foundation Medicine](https://www.foundationmedicine.com/), where I curated genomic samples of solid tumor data and worked on multiple research projects using the cancer genomics data and novel methods. 
+I'm advised by [Indra Neil Sarkar](https://vivo.brown.edu/display/isarkar) and, from a birds-eye view, work on the interesection between health, biological molecular data, and computer science techniques. I'm particularly interested in microbiomes and microbes, from health to agriculture, and many other health-adjacent topics, like cancer, allergies, immunology, epidemiology, and genetic data privacy. Before my PhD, I worked as a Clinical Bioinformatics Analyst at [Foundation Medicine](https://www.foundationmedicine.com/), where I curated genomic samples of solid tumor data and worked on multiple research projects using the cancer genomics data and novel methods. 
 
 Aside from my research work, I also served as the 2022-2023 Industry Lead at the [MIT Microbiome Club](https://microbiome.mit.edu/for-students/microbiome-club/) (co-lead from 2021-2022), where I helped run a industry mentorship program for undergraduates and graduate students in the microbiome field (Spring 2022) and an industry seminar series (Fall 2022).
 
 Completely outside of my academic and industry work, I'm also a musician and dancer in the Indian performing arts and have been performing, composing, and producing artistic work. 
 
 ### News
+* **[Spring 2025]** Expected graduation from PhD
 * **[May. 2024]** Masters in Computational Biology from Brown University
 * **[Jun. 2023]** Poster Presentation at ISMB 2023
 * **[Aug. 2022]** Awarded NIH T32 in Biological Data Science
